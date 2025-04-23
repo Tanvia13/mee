@@ -1,6 +1,4 @@
-![My Profile Picture](images/profile.png)
 
- 
 **Student Researcher** in *Digital Humanities*  
 **University of Alberta**
 
