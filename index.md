@@ -26,5 +26,9 @@ Currently, I am researching how **Crip Technoscience** frameworks can inform the
 Outside of my academic work, I have a passion for **cooking**, experimenting with recipes, and exploring how food culture intersects with identity and society.
 
 This site serves as a hub for my research, writing, and personal projects. 
+## Contact
+
+📧 [tanviasiddiq@gmail.com](mailto:tanviasiddiq@gmail.com)
+
 
 
