@@ -4,7 +4,6 @@ permalink: /about/
 layout: single
 author_profile: true
 ---
-
 # Tanvia Anjuman Siddiq
 
 I’m a Digital Humanities student researcher at the University of Alberta, exploring the intersection of technology, accessibility, and society.
