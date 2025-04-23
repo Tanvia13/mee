@@ -7,16 +7,6 @@
 ### Exploring AI Ethics, Algorithmic Bias, and Digital Health  
 
 
----
----
-permalink: /
-title: "Tanvia Anjuman Siddiq"
-author_profile: true
-layout: single
----
-
-
-
 I’m a Digital Humanities student researcher at the University of Alberta, exploring the intersection of technology, accessibility, and society.
 
 ## Research Focus
