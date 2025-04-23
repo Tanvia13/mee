@@ -4,11 +4,22 @@ title: "Tanvia Anjuman Siddiq"
 author_profile: true
 ---
 
-**Tanvia Anjuman Siddiq**  
-she/her  
-Student researcher in Digital Humanities, University of Alberta 
-  
-  **Follow**  
+<div style="text-align:center; margin-top: 40px;">
 
-Exploring AI ethics, algorithmic bias, and digital health.  
-This is my personal website — a growing archive of projects, writing, and research!
+# **Tanvia Anjuman Siddiq**
+
+**Student Researcher** in *Digital Humanities*  
+**University of Alberta**
+
+---
+
+### Exploring AI Ethics, Algorithmic Bias, and Digital Health
+
+ 
+This is a growing archive of my projects, writing, and research.
+
+---
+
+### **Follow Me**
+</div>
+
