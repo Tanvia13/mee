@@ -1,4 +1,4 @@
-# **Tanvia Anjuman Siddiq**  
+ 
 **Student Researcher** in *Digital Humanities*  
 **University of Alberta**
 
@@ -9,4 +9,4 @@ This is a growing archive of my projects, writing, and research.
 
 ---
 
-### **Follow Me**
+
